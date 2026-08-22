@@ -1,3 +1,5 @@
+package integer.class_problems;
+
 import java.util.Scanner;
 
 class PrimeNumber {
