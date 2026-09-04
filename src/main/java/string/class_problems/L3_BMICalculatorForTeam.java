@@ -2,7 +2,7 @@ package string.class_problems;
 
 import java.util.Scanner;
 
-public class L1_BMICalculatorForTeam {
+public class L3_BMICalculatorForTeam {
 
     static String getBmiStatus(double bmi) {
 
